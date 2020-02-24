@@ -3,13 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4c7bdf64-f201-44a9-b104-064c5165f492" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HSE WEEK 6/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/nsvlnsdln.py" beforeDir="false" afterPath="$PROJECT_DIR$/HSE WEEK 6/nsvlnsdln.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/HSE WEEK 6/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HSE WEEK 6" />
@@ -25,6 +34,81 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Python.nsvlnsdln">
+    <configuration name="HSE 6 Task 14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE.Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HSE WEEK 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task 14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HSE 6 Task 8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE.Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HSE WEEK 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task 8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nsvlnsdln" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HSE.Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HSE WEEK 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HSE WEEK 6/nsvlnsdln.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nsvlnsdln" />
+        <item itemvalue="Python.HSE 6 Task 14" />
+        <item itemvalue="Python.HSE 6 Task 8" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582537837446</updated>
       <workItem from="1582537842756" duration="42000" />
-      <workItem from="1582544083810" duration="837000" />
+      <workItem from="1582544083810" duration="11568000" />
     </task>
     <servers />
   </component>
@@ -61,6 +145,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582537882002" />
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
+    <state width="1493" height="255" key="GridCell.Tab.0.center" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
+    <state width="1493" height="255" key="GridCell.Tab.0.left" timestamp="1582574764073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582574764073" />
+    <state width="1493" height="255" key="GridCell.Tab.0.right" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1582574764075">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582574764075" />
+    <state width="1493" height="255" key="GridCell.Tab.1.center" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
+    <state width="1493" height="255" key="GridCell.Tab.1.left" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
+    <state width="1493" height="255" key="GridCell.Tab.1.right" timestamp="1582574764074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582574764074" />
     <state x="618" y="339" key="VCS.ChangelistChooser" timestamp="1582544149013">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -69,5 +185,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582544092291" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HSE_Python$HSE_6_Task_8.coverage" NAME="HSE 6 Task 8 Coverage Results" MODIFIED="1582562091861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 6" />
+    <SUITE FILE_PATH="coverage/HSE_Python$HSE_6_Task_14.coverage" NAME="HSE 6 Task 14 Coverage Results" MODIFIED="1582574217629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 6" />
+    <SUITE FILE_PATH="coverage/HSE_Python$nsvlnsdln.coverage" NAME="nsvlnsdln Coverage Results" MODIFIED="1582574513706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 6" />
   </component>
 </project>
