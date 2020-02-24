@@ -1,0 +1,10 @@
+import math
+a = float(input())
+b = float(input())
+c = float(input())
+d = float(input())
+e = float(input())
+f = float(input())
+x = (((e * d) - (b * f)) / ((a * d) - (c * b)))
+y = (((c * e) - (a * f)) / ((c * b) - (a * d)))
+print('{0:.6}'.format(x), '{0:.6}'.format(y))

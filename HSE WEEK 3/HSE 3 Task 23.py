@@ -1,0 +1,6 @@
+stringInput = input()
+string1 = stringInput.replace('h', 'H')
+a = string1.find('H')
+b = string1.rfind('H')
+string2 = (string1[:a] + 'h' + string1[a+1:b] + 'h' + string1[b+1:])
+print(string2)
