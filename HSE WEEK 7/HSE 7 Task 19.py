@@ -9,7 +9,7 @@ votes = len(candidates)
 candidatesDict = {}
 for can in candidates:
     candidatesDict[can] = candidatesDict.get(can, 0) + 1
-    candidatesDict = [(vot, cn) for cn, vot in candidatesDict.items()]
+candidatesDict = [(vot, cn) for cn, vot in candidatesDict.items()]
 candidatesDict.sort(key=lambda x: x[0], reverse=True)
 if candidatesDict[0][0] > (votes // 2):
     print(candidatesDict[0][1], file=outFile)
