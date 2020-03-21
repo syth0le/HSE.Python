@@ -17,3 +17,4 @@ else:
     print(candidatesDict[0][1], candidatesDict[1][1], sep="\n", file=outFile)
 inFile.close()
 outFile.close()
+ 
