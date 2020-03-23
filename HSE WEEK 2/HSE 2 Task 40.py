@@ -1,22 +1,16 @@
 n = int(input())
-save = 1
-save2 = 1
-while n > 0:
-    if n == 1:
-        n -= 1
-        print(0)
-        break
-    elif n <= 3:
-        save3 = save + save2
-        save = save
-        save2 = save2
-        print(save2)
-        break
-    else:
-        save = save2
-        save3 = save + save2
-        save2 = save3
-        n -= 1
-        print(save)
-        continue
-херня ссаная
+f1 = 0
+f2 = 1
+k = 0
+f = 0
+if n == 0:
+    f = f1
+elif n == 1:
+    f = f2
+elif n >= 2:
+    while k <= n - 2:
+        f = f1 + f2
+        f1 = f2
+        f2 = f
+        k += 1
+print(f)
