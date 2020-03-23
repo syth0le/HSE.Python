@@ -1,13 +1,10 @@
-h = int(input())
-i = 0
-n = 0
-while n <= h:
-    n = 2 ** i
-    if h == n:
+n = int(input())
+i = 1
+if i == n:
+    print('YES')
+while i < n:
+    i = i * 2
+    if i == n:
         print('YES')
-        break
-    elif n > h:
-        print('NO')
-        break
-    else:
-        i = i + 1
+if i != n:
+    print('NO')
