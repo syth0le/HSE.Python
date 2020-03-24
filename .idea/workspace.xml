@@ -2,25 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c7bdf64-f201-44a9-b104-064c5165f492" name="Default Changelist" comment="input changes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/8_week_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 8/HSE 8 Task 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 9/Matrix class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HSE WEEK 9/ОТЛАДКа.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HSE.Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HSE.Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task 6 full right.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HSE WEEK 7/HSE 7 Task 19.py" beforeDir="false" afterPath="$PROJECT_DIR$/HSE WEEK 7/HSE 7 Task 19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task 6 pizdec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/nsvlnsdln.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HSE WEEK 6/ярщзф.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,10 +55,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice-coding-of-a-VSU-student/Python" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.pyramid_of_sharps">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\coding\HSE.Python\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HSE 7 Task 4">
     <configuration name="ОТЛАДКа" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HSE.Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HSE 6 Task  12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HSE 7 Task 4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="HSE.Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HSE WEEK 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HSE WEEK 7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HSE WEEK 6/HSE 6 Task  12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HSE WEEK 7/HSE 7 Task 4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HSE 7 Task 4" />
         <item itemvalue="Python.pyramid_of_sharps" />
         <item itemvalue="Python.HSE 8 Task 6" />
         <item itemvalue="Python.Matrix class" />
         <item itemvalue="Python.ОТЛАДКа" />
-        <item itemvalue="Python.HSE 6 Task  12" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +228,12 @@
       <workItem from="1584690516521" duration="15364000" />
       <workItem from="1584796927440" duration="2411000" />
       <workItem from="1584822929752" duration="2031000" />
-      <workItem from="1584830406466" duration="266000" />
+      <workItem from="1584830406466" duration="941000" />
+      <workItem from="1584867878416" duration="29000" />
+      <workItem from="1584892055825" duration="152000" />
+      <workItem from="1584968328327" duration="45000" />
+      <workItem from="1584971788237" duration="1656000" />
+      <workItem from="1585070038052" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="input changes">
       <created>1584827058407</created>
@@ -232,6 +247,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -255,37 +283,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="391" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584827107897" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1584826840574">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1584968371364">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584826840574" />
-    <state width="1493" height="278" key="GridCell.Tab.0.bottom" timestamp="1584827958931">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584968371364" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584867904859" />
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom" timestamp="1584975696961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.864/-1360.0.1360.768@0.0.1536.864" timestamp="1584715276681" />
     <state width="1168" height="202" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1280.720@0.0.1536.864" timestamp="1583092280822" />
-    <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584725395115" />
+    <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584975696961" />
     <state width="1493" height="278" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584827958931" />
-    <state width="1493" height="278" key="GridCell.Tab.0.center" timestamp="1584827958931">
+    <state width="1493" height="278" key="GridCell.Tab.0.center" timestamp="1584975696961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.864/-1360.0.1360.768@0.0.1536.864" timestamp="1584715276680" />
     <state width="1168" height="202" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1280.720@0.0.1536.864" timestamp="1583092280822" />
-    <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584725395115" />
+    <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584975696961" />
     <state width="1493" height="278" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584827958931" />
-    <state width="1493" height="278" key="GridCell.Tab.0.left" timestamp="1584827958931">
+    <state width="1493" height="278" key="GridCell.Tab.0.left" timestamp="1584975696961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.864/-1360.0.1360.768@0.0.1536.864" timestamp="1584715276680" />
     <state width="1168" height="202" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1280.720@0.0.1536.864" timestamp="1583092280822" />
-    <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584725395115" />
+    <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584975696961" />
     <state width="1493" height="278" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584827958931" />
-    <state width="1493" height="278" key="GridCell.Tab.0.right" timestamp="1584827958931">
+    <state width="1493" height="278" key="GridCell.Tab.0.right" timestamp="1584975696961">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.864/-1360.0.1360.768@0.0.1536.864" timestamp="1584715276681" />
     <state width="1168" height="202" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1280.720@0.0.1536.864" timestamp="1583092280822" />
-    <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584725395115" />
+    <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584975696961" />
     <state width="1493" height="278" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584827958931" />
     <state width="1493" height="255" key="GridCell.Tab.1.bottom" timestamp="1583680301184">
       <screen x="0" y="0" width="1536" height="864" />
@@ -315,13 +344,13 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="160" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1584827150701" />
-    <state x="444" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584830407857">
+    <state x="444" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584968358614">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="444" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582879498773" />
     <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1920.0.1280.720@0.0.1536.864" timestamp="1583080513161" />
-    <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584797513084" />
-    <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584830407857" />
+    <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.156.1360.768@0.0.1536.864" timestamp="1584968358614" />
+    <state x="444" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584867878444" />
     <state x="424" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583080977138">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -353,8 +382,8 @@
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_Task_22.coverage" NAME="HSE Task 22 Coverage Results" MODIFIED="1584263301077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 1" />
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_7_Task_9.coverage" NAME="HSE 7 Task 9 Coverage Results" MODIFIED="1583092280808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 7" />
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_7_task_7.coverage" NAME="HSE 7 task 7 Coverage Results" MODIFIED="1583385140776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 7" />
-    <SUITE FILE_PATH="coverage/HSE_Python$HSE_7_Task_4.coverage" NAME="HSE 7 Task 4 Coverage Results" MODIFIED="1583087433871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 7" />
     <SUITE FILE_PATH="coverage/HSE_Python$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1584638671430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../practice-coding-of-a-VSU-student/Python" />
+    <SUITE FILE_PATH="coverage/HSE_Python$HSE_7_Task_4.coverage" NAME="HSE 7 Task 4 Coverage Results" MODIFIED="1584972690016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 7" />
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_6_Task_8.coverage" NAME="HSE 6 Task 8 Coverage Results" MODIFIED="1582562091861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 6" />
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_7_Task_1.coverage" NAME="HSE 7 Task 1 Coverage Results" MODIFIED="1582977901097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 7" />
     <SUITE FILE_PATH="coverage/HSE_Python$HSE_8_Task_3.coverage" NAME="HSE 8 Task 3 Coverage Results" MODIFIED="1583947936618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HSE WEEK 8" />
